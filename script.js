@@ -18,6 +18,7 @@ $("#currentDay").text(moment().format("dddd, MMMM Do"))
     var blockHour = parseInt($(this).attr("id").split("-")[1]);
 
 //    check to see if currentHour is greater > or < blockHour
+    
 // add CSS classes according to time
     $(this).addClass("past");
     $(this).addClass("present");
