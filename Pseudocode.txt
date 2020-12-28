@@ -1,0 +1,5 @@
+This program will allow the user to interact with a day planner
+the input with save locally 
+the date and current time will update automatically upon launch from moments.js or similar.
+Creation: 
+1. format current time block in line 29 current day with moments js.
