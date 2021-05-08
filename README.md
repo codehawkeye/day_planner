@@ -22,6 +22,8 @@
  
 ## Usage 
 
+![](src/images/dayplanner.png)
+
 
 ## Credits // License
 
