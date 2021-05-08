@@ -3,7 +3,7 @@
 
 ## Description 
 
-> Day planner is a simple calendar application that allows you stay organnized throughout your work day.  
+> Day planner is a simple calendar application that allows you stay organized throughout your work day.  
 
 
      -Simply enter the event at the desired time and it persist in local storage.
